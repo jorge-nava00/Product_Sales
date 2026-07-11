@@ -81,13 +81,13 @@ Two-page Power BI dashboard built on the cleaned and forecasted data.
 **Page 1 — Performance Analysis**  
 General KPI's and Profit margin breakdown by region, category, and time period.
 
+**Page 2 — Revenue Trend & Forecast**  
+Full historical monthly revenue (2023–2024) alongside Q1 2025 predictions with confidence interval bounds. Includes a forecast data table with exact figures per month.
+
 ---
 
 ## About
 
 Built as a portfolio project to demonstrate an end-to-end analytics workflow — from raw data in a simulated database environment through to an interactive business dashboard.
-
-**Page 2 — Revenue Trend & Forecast**  
-Full historical monthly revenue (2023–2024) alongside Q1 2025 predictions with confidence interval bounds. Includes a forecast data table with exact figures per month.
 
 
