@@ -70,7 +70,7 @@ Monthly revenue was aggregated into a time series and modeled using Prophet with
 - **Q4 seasonality is dominant** — revenue starts climbing in September and peaks in November, consistently in both 2023 and 2024. The last quarter significantly outperforms all others
 - **February is the weakest month** of the year — confirmed by both the historical data and Prophet's seasonality decomposition
 - **The Instant Pot** is the top-selling product by revenue
-- **Q1 2025 forecast** projects higher revenue than the same period in prior years across all three months. January ($4.95M), February (~$3.19M), March (~$4.80M) — consistent with an upward trend identified in the second half of 2024
+- **Q1 2025 forecast** projects higher revenue than the same period in prior years across all three months. January ($4.95M), February ($3.19M), March ($4.80M) — consistent with an upward trend identified in the second half of 2024
 
 ---
 
