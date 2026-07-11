@@ -11,7 +11,7 @@ End-to-end data analytics project covering SQL exploration, Python EDA, time ser
 
 | Layer | Tools |
 |-------|-------|
-| Data storage & querying | SQLite · SQL |
+| Data querying | SQLite · SQL |
 | Analysis & visualization | Python · pandas · matplotlib · seaborn |
 | Forecasting | Prophet |
 | Dashboard | Power BI |
